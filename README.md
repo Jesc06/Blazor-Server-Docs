@@ -6,8 +6,8 @@ Welcome to my evolving series of mini-projects and documentation designed to sha
 
 ## 📌 Getting the Basics Right
 
-> **Ep1: [MVC Project Setup](https://github.com/Jesc06/ASP.NET-Core-Empty-MVC-set-up.git)**  
-Kick things off by learning how to set up a clean, empty ASP.NET Core MVC project. *Start fresh, code clean.*
+> **Ep1: [Layout Component](https://github.com/Jesc06/Layout-in-Blazor.git)**  
+Kick things off by learning how to set up a Layout Component in blazor*
 
 > **Ep2: [Web API Project Setup](https://github.com/Jesc06/Web-API-Project-Setup.git)**  
 Web API program.cs project setup
